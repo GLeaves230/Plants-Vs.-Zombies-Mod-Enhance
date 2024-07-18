@@ -3156,3 +3156,16 @@ Spore-Shroom
 
 [SPORE_SHORRM_DESCRIPTION]
 This is a Spore-ShroomDescription
+
+[ZOMBIE_NEW_STYLE_BOBSLED_TEAM]
+New-style Bobsled Team
+
+[ZOMBIE_NEW_STYLE_BOBSLED_TEAM_DESCRIPTION]
+These zombies love the trend of new styles
+{SHORTLINE}
+{KEYWORD}Toughness:{STAT} low (each zombie) {270}
+{KEYWORD}Bobsled Toughness:{STAT} low {300}
+{KEYWORD}Special:{STAT} only appears on ice
+{SHORTLINE}
+{FLAVOR}New-style Bobsled Team They love trends and dream of becoming idols of zombies,
+usually in groups of four, day after day following the trend and the era of infinite brains
