@@ -1,0 +1,12 @@
+﻿<Properties>
+	<Boolean id = "DefaultWindowed">false</Boolean>
+	<Boolean id = "DebugMode">false</Boolean>
+		<Boolean id ="InfiniteSunshine">true</Boolean>
+		<Boolean id ="InfiniteMoney">true</Boolean>
+		<Boolean id ="ZombiesRefuseTheDoor">false</Boolean>
+	<Boolean id = "ExpertMode">false</Boolean>
+	<Boolean id = "EnhanceMode">true</Boolean>
+	<String id = "ProdName">PlantsVsZombies Enhance</String>
+	<String id = "RegistryKey">PopCap\PlantsVsZombies Enhance</String>
+	<String id ="Version">0.0.0.1 Alpha</String>
+</Properties>
