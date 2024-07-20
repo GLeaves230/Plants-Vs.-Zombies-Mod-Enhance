@@ -1,15 +1,15 @@
-Exception: Access Violation (code 0xc0000005) at address 00473817 in thread 3554
+Exception: Access Violation (code 0xc0000005) at address 0055661F in thread 87C
 Module: PlantsVsZombiesEnhance.exe
-Logical Address: 0001:00072817
+Logical Address: 0001:0015561F
 
-0019FCCC 00473817 0001:00072817 PlantsVsZombiesEnhance.exe
-Params: 000C3000 000C4000 00000020 001C0034
+0019FBDC 0055661F 0001:0015561F PlantsVsZombiesEnhance.exe
+Params: 0059AEB8 0359BC28 2A1C279A 017BCAB4
 
 
-EAX:00000000 EBX:00000000 ECX:00000000 EDX:01960000 ESI:00000001 EDI:015BE73C
-EIP:00473817 ESP:0019FC98  EBP:0000009A
+EAX:0DD8C13C EBX:0359BB48 ECX:0359BE28 EDX:0359BE08 ESI:0366FD18 EDI:017B94E8
+EIP:0055661F ESP:0019FBCC  EBP:017BA3DC
 CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
-Flags:00010297
+Flags:00010202
 
 Windows Ver: NT 6.2  Build 9200
 DDraw Ver: 
@@ -17,10 +17,7 @@ DSound Ver:
 
 Product: PlantsVsZombies Enhance
 Version: 1.0.0.1051
-Time Loaded: 00:00:00
+Time Loaded: 00:02:54
 Fullscreen: No
-Primary ThreadId: 3554
-Times Played: 0
-Build Num: 0
-Build Date: 
+Primary ThreadId: 87C
 
